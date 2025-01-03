@@ -1,0 +1,306 @@
+{
+    "title": "Miguel Angel Munoz | Portfolio",
+    "description": "I am Miguel, electronic engineer and passionate about technology.",
+    "image": "/avatar.jpeg",
+    "avatar": "/avatar.jpeg",
+    "name": "Miguel Angel Muñoz",
+    "skill": "Electronic Engineer and Programming Technician",
+    "location": "Colombia - Medellin",
+    "media": {
+        "email": "miguelmunoz.aristizabal@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/miguelangel708",
+        "likedin": "https://www.linkedin.com/in/miguel-angel-mu%C3%B1oz-6b4114183/"
+    },
+    "about": "As an electronic engineer, I am passionate about technology, programming, and innovation. I have extensive experience in programming applied to the development of projects in different areas, such as web, automation, cloud deployment, and DevOps culture. I am very proactive, learn quickly, and have a great disposition for teamwork. I am passionate about travel and photography.",
+    "technologies": [
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-csharp-plain",
+            "name": "C#"
+        },
+        {
+            "icon": "devicon-cplusplus-plain",
+            "name": "C++"
+        },
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-docker-plain",
+            "name": "Docker"
+        },
+        {
+            "icon": "devicon-github-original",
+            "name": "GitHub"
+        },
+        {
+            "icon": "devicon-terminal-plain",
+            "name": "CLI"
+        },
+        {
+            "icon": "devicon-amazonwebservices-plain",
+            "name": "AWS"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "terminal",
+            "title": "IDEA Group (Institute of Environmental Studies) - National University Manizales Campus",
+            "subtitle": "Web Developer",
+            "description": "Development and maintenance of a critical public safety application: Responsible for the Early Warning System (SAT) in Manizales, Colombia, a tool that monitored real-time rainfall levels and alerted firefighters about potential risks, ensuring high availability and reliability in emergency situations. (PHP, MySQL, PostgreSQL, RESTful API, Docker, Git, Linux for servers)",
+            "date": "August 2021 - July 2023"
+        },
+        {
+            "icon": "fuel",
+            "title": "WEST engineering SAS",
+            "subtitle": "Innovation and Development Control Engineer",
+            "description": "I developed and implemented an artificial intelligence chatbot using natural language models (LLM) and cloud-based DevOps practices, ensuring efficient deployments with CI/CD. I designed and developed the company's official website using React and JavaScript, enhancing the user experience. Additionally, I created a backend in C# to integrate real-time monitoring applications with edge computing devices like PLCs.",
+            "date": "July 2023 - present"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "alert_triangle",
+            "title": "SAT - Manizales Early Warning System",
+            "subtitle": "Backend Development",
+            "description": "A project in collaboration with the Manizales City Hall and the IDEA research group from the National University of Colombia, aimed at developing a tool that monitors real-time rainfall levels and, through analysis, measures the threat level to alert firefighters about the potential risks of rainfall in different areas of the city, ensuring high availability and reliability in emergency situations.",
+            "technologies": [
+                {
+                    "icon": "devicon-php-plain",
+                    "name": "PHP"
+                },
+                {
+                    "icon": "devicon-docker-plain",
+                    "name": "Docker"
+                },
+                {
+                    "icon": "devicon-github-original",
+                    "name": "GitHub"
+                },
+                {
+                    "icon": "devicon-linux-plain",
+                    "name": "Linux"
+                },
+                {
+                    "icon": "devicon-mysql-plain",
+                    "name": "MySQL"
+                },
+                {
+                    "icon": "devicon-api-plain",
+                    "name": "API-RESTful"
+                }
+            ],
+            "image": "/esva.jpg",
+            "url": "https://matrix.fandom.com/wiki/MetaCortex",
+            "github": "https://github.com/thomasanderson"
+        },
+        {
+            "icon": "mail",
+            "title": "ESVA Virtual Assistant",
+            "subtitle": "RAG model for document management",
+            "description": "Development and implementation of an AI-powered chatbot in the cloud: I designed and implemented a chatbot using natural language models (LLM) and artificial intelligence, deployed in cloud environments applying DevOps principles and CI/CD practices to ensure continuous and efficient deployment.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-docker-plain",
+                    "name": "Docker"
+                },
+                {
+                    "icon": "devicon-googlecloud-plain",
+                    "name": "GCP"
+                },
+                {
+                    "icon": "devicon-amazonwebservices-plain",
+                    "name": "AWS"
+                },
+                {
+                    "icon": "devicon-github-original",
+                    "name": "GitHub"
+                },
+                {
+                    "icon": "devicon-devops-plain",
+                    "name": "RAG"
+                },
+                {
+                    "icon": "devicon-linux-plain",
+                    "name": "Linux"
+                },
+                {
+                    "icon": "devicon-ai-plain",
+                    "name": "LLMs"
+                },
+                {
+                    "icon": "devicon-devops-plain",
+                    "name": "DevOps"
+                },
+                {
+                    "icon": "devicon-api-plain",
+                    "name": "APIs"
+                },
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-mongodb-plain",
+                    "name": "MONGODB"
+                }
+            ],
+            "image": "/RAG_architecture.png",
+            "url": "https://matrix.fandom.com/wiki/Wiki",
+            "github": "https://github.com/thomasanderson"
+        },
+        {
+            "icon": "bug-off",
+            "title": "Open Source - Docker Generator",
+            "subtitle": "Docker project generator (in progress)",
+            "description": "Development and deployment of the backend and frontend of an open-source application that initializes Docker projects as a base for various applications",
+            "technologies": [
+                {
+                    "icon": "devicon-csharp-plain",
+                    "name": "C#"
+                },
+                {
+                    "icon": "devicon-docker-plain",
+                    "name": "Docker"
+                },
+                {
+                    "icon": "devicon-react-original",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-github-original",
+                    "name": "GitHub"
+                },
+                {
+                    "icon": "devicon-api-plain",
+                    "name": "API Rest"
+                },
+                {
+                    "icon": "devicon-linux-plain",
+                    "name": "Linux"
+                },
+                {
+                    "icon": "devicon-mongodb-plain",
+                    "name": "MONGODB"
+                }
+            ],
+            "image": "/docker.png",
+            "url": "https://matrix.fandom.com/wiki/Wiki",
+            "github": "https://github.com/thomasanderson"
+        },
+        {
+            "icon": "terminal",
+            "title": "Web Pages",
+            "subtitle": "Frontend development for various websites of WEST Engineering",
+            "description": "Design, development, and deployment of various websites for WEST Engineering, including the company's main website",
+            "technologies": [
+                {
+                    "icon": "devicon-react-original",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-figma-plain",
+                    "name": "FIGMA"
+                },
+                {
+                    "icon": "devicon-wordpress-plain",
+                    "name": "Wordpress"
+                }
+            ],
+            "image": "/chat.jpg",
+            "url": "https://matrix.fandom.com/wiki/Wiki",
+            "github": "https://github.com/thomasanderson"
+        }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "National University of Colombia - Manizales Campus",
+            "subtitle": "Electronic Engineering Student",
+            "description": "11 semesters of electronic engineering and part of computer science, as well as participation in different research groups",
+            "date": "February 2018 - October 2023",
+            "certificate": "https://www.manizales.unal.edu.co/"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "SENA: National Learning Service",
+            "subtitle": "Software Programming Technician",
+            "description": "I learned skills in different programming languages, as well as the development and deployment of applications with C# and React",
+            "date": "2017",
+            "certificate": "https://www.sena.edu.co/es-co/Paginas/default.aspx"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "SMART Language Academy",
+            "subtitle": "English B2",
+            "description": "Complete English course",
+            "date": "2020 - present",
+            "certificate": "https://www.sena.edu.co/es-co/Paginas/default.aspx"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/noticia-chaleco.png",
+            "title": "Turn Signals for Cyclists",
+            "description": "I participated in a group that developed a vest to help cyclists use turn signals in the city of Medellín, aiming to reduce the accident rate in the city. This initiative was covered by various media outlets, including newspapers and radio.",
+            "url": "https://www.manizales.unal.edu.co/manizales/news/chaleco-con-direccionales-led-mejoraria-seguridad-de-ciclistas/?tx_news_pi1%5Bcontroller%5D=News&%3Btx_news_pi1%5Baction%5D=detail&%3BcHash=89e3e67b4ea498a8ed37a9e16175aa04"
+        },
+        {
+            "image": "/unidiario.jpg",
+            "title": "Robotic Prosthesis",
+            "description": "During several semesters at university, we developed a robotic prosthesis controlled by electroencephalogram signals, with the aim of providing individuals without this organ a functional tool for their daily life.",
+            "url": "https://periodico.unal.edu.co/"
+        },
+        {
+            "image": "/arduino.jpg",
+            "title": "Robotics Projects such as Smart Irrigation Systems in Rural Areas",
+            "description": "During my time in high school, I had the opportunity to participate in robotics competitions with a project based on a robot for smart irrigation systems, where through a camera, it detected the plants' needs and was responsible for supplying water and making diagnostics.",
+            "url": ""
+        }
+    ]
+}
