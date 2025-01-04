@@ -7,7 +7,7 @@ from portafolio.components.icon_button import icon_button
 
 def footer(data: Media) -> rx.Component:
     return rx.vstack(
-        rx.text("Este portafolio se ha usado en base al proyecto hecho por mouredev, todo un crack"),
+        rx.text("This portfolio has been used on the basis of the project made by mouredev, a real crack."),
         rx.hstack(
             icon_button(
                 "github",
