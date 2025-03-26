@@ -12,7 +12,7 @@
         "github": "https://github.com/miguelangel708",
         "likedin": "https://www.linkedin.com/in/miguel-angel-mu%C3%B1oz-6b4114183/"
     },
-    "about": "As an electronic engineer, I am passionate about technology, programming, and innovation. I have extensive experience in programming applied to the development of projects in different areas, such as web, automation, cloud deployment, and DevOps culture. I am very proactive, learn quickly, and have a great disposition for teamwork. I am passionate about travel and photography.",
+    "about": "I’m a backend developer passionate about building scalable and efficient services. I thrive on solving complex problems and turning ideas into robust, high-performance solutions. My work is driven by a commitment to continuous learning, teamwork, and technical excellence. Beyond coding, I enjoy collaborating with teams, sharing knowledge, and embracing challenges that push me to grow. My approach is always solution-oriented, seeking not just to develop software, but to create impactful and sustainable technology. Let’s build something great together!",
     "technologies": [
         {
             "icon": "devicon-python-plain",
@@ -67,6 +67,14 @@
             "description": "Development and maintenance of a critical public safety application: Responsible for the Early Warning System (SAT) in Manizales, Colombia, a tool that monitored real-time rainfall levels and alerted firefighters about potential risks, ensuring high availability and reliability in emergency situations. (PHP, MySQL, PostgreSQL, RESTful API, Docker, Git, Linux for servers)",
             "date": "August 2021 - July 2023"
         },
+        {
+            "icon": "terminal",
+            "title": "Global Hitss",
+            "subtitle": "Software Development Intern",
+            "description": "Developed and automated processes using Python, optimizing workflows and improving operational efficiency. Implemented containerized microservices in C# for backend applications, enhancing scalability and modularity.",
+            "date": "August 2021 - July 2023"
+        },
+        
         {
             "icon": "fuel",
             "title": "WEST engineering SAS",
@@ -182,7 +190,7 @@
             "icon": "bug-off",
             "title": "Open Source - Docker Generator",
             "subtitle": "Docker project generator (in progress)",
-            "description": "Development and deployment of the backend and frontend of an open-source application that initializes Docker projects as a base for various applications",
+            "description": "Development and deployment of the backend and frontend of an open-source application that initializes Docker projects as a base for various applications. The project is actively developed in the open-source repository [Container Generator](https://github.com/miguelangel708/container-generator.git).",
             "technologies": [
                 {
                     "icon": "devicon-csharp-plain",
@@ -225,7 +233,7 @@
             "icon": "terminal",
             "title": "Web Pages",
             "subtitle": "Frontend development for various websites of WEST Engineering",
-            "description": "Design, development, and deployment of various websites for WEST Engineering, including the company's main website",
+            "description": "Design, development, and deployment of various websites for WEST Engineering, including the company's main website [WEST Engineering](https://west.net.co/).",
             "technologies": [
                 {
                     "icon": "devicon-react-original",
